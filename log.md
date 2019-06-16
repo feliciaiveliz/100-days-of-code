@@ -20,3 +20,13 @@
 **Thoughts:** Yay! I leveled up on Codewars! I remember a couple weeks ago I couldn't even understand what to do, how to write the code, or what kata meant. Everyday I'm practicing exercises and it's helping to solidify concepts in my head. 
 
 **Link to work:** [codewars](https://www.codewars.com/users/Felicia%20Bacon), [personal website](https://feliciabacon.home.blog/)
+
+
+### Day 2: June 15, 2019 - Saturday
+
+**Today's Progress**: Went out of town today, didn't get too much done. I did about an hour of reviewing hashes, will look at Anki cards.
+
+**Time Spent**: 1 hour
+
+**Thoughts:** It's crazy what one day can do for your memory. Even small bits of reviewing one day can help you later on. I will do more tomorrow since I will be home.
+
